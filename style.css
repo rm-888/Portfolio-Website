@@ -22,6 +22,8 @@
 
     --icon-color: #f249b4;
     --mode-color: #ccc;
+
+     --foot-color: #fff;
 }
 
 body {
@@ -40,6 +42,8 @@ body.dark{
     --logo-color: #fff;
     --icon-color: #f249b4;
     --mode-color: #fff;
+
+    --foot-color: #262425;
 }
 
 .container{
