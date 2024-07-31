@@ -670,7 +670,7 @@ footer{
     align-items: center;
     flex-direction: column;
     row-gap: 30px;
-    background: var(--body-color);
+    background: var(--foot-color);
     padding-block: 40px 60px;
 }
 
