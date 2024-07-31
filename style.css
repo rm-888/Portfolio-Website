@@ -23,7 +23,7 @@
     --icon-color: #f249b4;
     --mode-color: #ccc;
 
-     --foot-color: #fff;
+    --foot-color: #fff;
 }
 
 body {
@@ -43,7 +43,7 @@ body.dark{
     --icon-color: #f249b4;
     --mode-color: #fff;
 
-    --foot-color: #262425;
+    --foot-color:  #262425;
 }
 
 .container{
